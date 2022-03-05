@@ -1,0 +1,2 @@
+# Kurdi
+Kurd
